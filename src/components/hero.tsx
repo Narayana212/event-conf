@@ -6,7 +6,7 @@ import Link from "next/link";
 
 export default function Hero() {
   return (
-    <div className=" h-[45vh] md:h-[70vh]  w-screen hero-back">
+    <div className=" h-[60vh] md:h-[70vh]  w-screen hero-back">
       <MaxWidthWrapper className="pt-5 w-screen flex gap-y-5 flex-col items-start ">
         <h1 className="text-[#CD1739]  w-[100%] md:w-[50%] font-semibold md:text-2xl text-sm ">
           INTERNATIONAL CONFERENCE ON ELECTRICAL, ELECTRONICS AND COMPUTING
