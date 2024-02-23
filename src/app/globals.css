@@ -82,3 +82,29 @@
   object-fit: cover;
   background-repeat: no-repeat;
 }
+
+
+.hover-link::after {
+  content: "";
+  display: block;
+  height: 6px;
+  border-radius: 20px;
+  background-color: #CD1739;
+  transform: scale(0);
+  transition: transform 0.3s ease;
+}
+
+.hover-link:hover::after {
+  transform: scale(0.5);
+}
+
+
+.active-link::after {
+  content: "";
+  display: block;
+  height: 6px;
+  border-radius: 20px;
+  background-color: #CD1739;
+  transform: scale(0.5);
+  transition: transform 0.3s ease;
+}
