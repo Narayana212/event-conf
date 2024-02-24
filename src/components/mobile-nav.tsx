@@ -6,15 +6,25 @@ import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 
 const Links = [
-  { id: 0, href :"/", title: "Home" },
-  { id: 1, href: "/themes", title: "Themes" },
-  { id: 2, href: "/contact", title: "Contact Us" },
-  { id: 3, href: "/team", title: "Team" },
+
+ 
+
+  
+  
+  { id: 1, href :"/", title: "Home" },
+  {id:2,href:"/paper",title:"Paper Submisson"},
+  { id: 3, href: "/themes", title: "Themes" },
+  { id: 4, href: "/contact", title: "Contact Us" },
+  { id: 5, href: "/team", title: "Team" },
+  
 ];
 const MobileNav = () => {
   const [isOpen, setOpen] = useState<boolean>(false);
 
-  const toggleOpen = () => setOpen((prev) => !prev);
+  const toggleOpen = () =>{
+    console.log("toogle")
+    setOpen((prev) => !prev);
+  }
 
   const pathname = usePathname();
 
@@ -29,7 +39,7 @@ const MobileNav = () => {
   };
 
   return (
-    <div className="sm:hidden">
+    <div className="md:hidden">
       <Menu
         onClick={toggleOpen}
         className="relative z-50 h-5 w-5 text-zinc-700"

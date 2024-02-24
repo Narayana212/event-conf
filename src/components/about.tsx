@@ -66,7 +66,7 @@ export default function About() {
             {" "}
             IMPORTANT DATES
           </h1>
-        <p>  Paper Submission Deadline:{" "}
+        <div>  Paper Submission Deadline:{" "}
           <span className="font-bold">15th March, 2024</span>
           <hr className="w-0" />
           Notification of Acceptance:{" "}
@@ -76,7 +76,7 @@ export default function About() {
           <span className="font-bold">30th June, 2024</span>
           <hr className="w-0" />
           Conference Dates:
-          <span className="font-bold"> 29-31, August, 2024</span></p>
+          <span className="font-bold"> 29-31, August, 2024</span></div>
         </section>
       </main>
     </MaxWidthWrapper>
