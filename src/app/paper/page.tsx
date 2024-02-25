@@ -5,7 +5,7 @@ import Link from "next/link";
 import { cn } from "@/lib/utils";
 import { Button, buttonVariants } from "@/components/ui/button";
 import MaxWidthWrapper from "@/components/max-width-wrapper";
-import Guidelines from "@/components/Guidelines";
+import Guidelines from "@/components/guidelines";
 
 
 export default async function Paper() {
