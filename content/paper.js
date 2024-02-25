@@ -4,15 +4,9 @@ const conferenceGuidelines = [
     { id: 3, point: " Extra page charges apply beyond 6 pages IEEE paper template." },
   ];
   
-  const downloadLinks = [
-    { id: 1, link: "Download Call For Papers in PDF" },
-    { id: 2, link: "Download Paper Template (Microsoft Word)" },
-    { id: 3, link: "Download Paper Template Instructions(LaTeX)" },
-    { id: 4, link: "Download LaTeX Template (ZIP, 700 KB)" },
-    { id: 5, link: "Download LaTeX Bibliography Files (ZIP, 309 KB)" },
-  ];
+
   
-  const manuscriptPreparation = [
+  const eligibility = [
     { id: 1, point: "The manuscript should be prepared in IEEE format using MS WORD and/or LaTeX template." },
     { id: 2, point: "The figures/graphs/plots in the manuscript MUST be of good resolution (600 dpi or more), tables MUST NOT be in pictorial format." },
     { id: 3, point: "Text in figures should not be too small, and preferably of equal size as text of the article." },
@@ -24,14 +18,8 @@ const conferenceGuidelines = [
     { id: 9, point: "All references, figures, and tables should be numbered in sequence starting from 1 and MUST be duly cited / referred within the text." },
   ];
   
-  const plagiarismPolicy = [
-    { id: 1, point: "Authors are requested to kindly refrain from plagiarism in any form." },
-    { id: 2, point: "Authors should submit their original and unpublished research work not under consideration for publication elsewhere." },
-    { id: 3, point: "Papers found to be plagiarized during any stage of review shall be rejected." },
-    { id: 4, point: "As per the copyright transfer agreement, Authors are deemed to be individually and collectively responsible for the content of manuscripts published by them." },
-    { id: 5, point: "Hence, it is the responsibility of each author to strive for the highest ethical standards with respect to plagiarism." },
-  ];
+  
   
   // Exporting the arrays
-  export { conferenceGuidelines, downloadLinks, manuscriptPreparation, plagiarismPolicy };
+  export { conferenceGuidelines, eligibility };
   
