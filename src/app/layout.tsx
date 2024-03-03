@@ -4,6 +4,10 @@ import "./globals.css";
 import Navbar from "@/components/navbar";
 import { Analytics } from "@vercel/analytics/react"
 import { SpeedInsights } from '@vercel/speed-insights/next';
+import NextTopLoader from 'nextjs-toploader';
+
+
+
 const inter = Montserrat({ subsets: ["latin"] });
 
 
@@ -22,7 +26,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${inter.className} w-screen grainy overflow-x-hidden `}>
-        
+      <NextTopLoader color="#CD1739"  showSpinner={false}/>
         <Navbar />
         {children}
         <Analytics />
