@@ -7,6 +7,7 @@ import {
   TooltipProvider,
   TooltipTrigger,
 } from "./ui/tooltip";
+import { aboutUni } from "../../content/about";
 
 export default function University() {
   return (
@@ -16,23 +17,7 @@ export default function University() {
           ABOUT THE UNIVERSITY
         </h1>
 
-        
-
-        <p>
-          {" "}
-          The Shiv Nadar Institution of Eminence is a multidisciplinary,
-          student-centric research university established in 2011 by Shiv Nadar,
-          one of India&apos;s foremost philanthropists and a pioneer of
-          technological revolution. It has four Schools, viz., Engineering,
-          Natural Sciences, Humanities and Social Sciences, Management &
-          Entrepreneurship, and the Academy of Continuing Education. We were the
-          first university in the country to offer a 4-year multidisciplinary
-          research degree. Today, we are continuing as trailblazers with new
-          kinds of curriculum, championed by faculty drawn from some of the top
-          institutions in the country and the world. With low faculty-student
-          ratios, their in-depth attention to students lead to high levels of
-          student success.
-        </p>
+        <p> {aboutUni}</p>
       </section>
       <Image
         alt="university"
