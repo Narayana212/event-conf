@@ -13,7 +13,7 @@ const Guidelines = () => {
         ))}
       </ul>
 
-      <h1 className="text-[#CD1739] text-lg mt-5">Paper Formatting</h1>
+      <h1 className="text-[#CD1739] text-lg mt-5">Eligibility</h1>
       <ul className=" mt-3 flex flex-col justify-center list-disc marker:text-[#CD1739] ">
         {eligibility.map((guidelines) => (
           <li key={guidelines.id}>{guidelines.point}</li>
