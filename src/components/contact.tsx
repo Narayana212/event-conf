@@ -21,6 +21,7 @@ export default function Contact() {
             <div className='flex flex-col  gap-y-1 justify-center items-center'>
                 <Mail className='h-14 w-14 border rounded-full p-3'/>
                 <p className='text-sm'>{gmail}</p>
+                <hr />
                 <p className='text-sm'>ak901@snu.edu.in</p>
             </div>
             <div className='flex flex-col justify-center items-center'>
