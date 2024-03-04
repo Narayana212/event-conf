@@ -23,16 +23,13 @@ export default function About() {
           <div>
             {" "}
             Paper Submission Deadline:{" "}
-            <span className="font-bold">15th March, 2024</span>
+            <span className="font-bold">23rd March, 2024</span>
             <hr className="w-0" />
-            Notification of Acceptance:{" "}
-            <span className="font-bold">15th April, 2024 </span>{" "}
-            <hr className="w-0" />
-            Camera Ready Deadline:{" "}
-            <span className="font-bold">30th June, 2024</span>
+            Registration Deadline:{" "}
+            <span className="font-bold">1st April, 2024</span>
             <hr className="w-0" />
             Conference Dates:
-            <span className="font-bold"> 29-31, August, 2024</span>
+            <span className="font-bold"> 20th April, 2024</span>
           </div>
           <h1 className="text-lg md:text-xl text-[#CD1739]"> LOCATION</h1>
 
