@@ -1,38 +1,32 @@
-export const about = `The annual SUMMIT Conference brings together undergraduate students
- from diverse academic backgrounds for a dynamic exchange of ideas and innovation. Through 
- a series of interactive workshops, keynote presentations, and collaborative sessions, participants 
- are encouraged to explore the intersection of their multidisciplinary studies. The conference 
- serves as a platform for fostering creativity, critical thinking, and problem-solving skills 
- among tomorrow's leaders. With a focus on nurturing talent and fostering a culture of 
- innovation, SUMMIT provides a unique opportunity for students to showcase their research, 
- projects, and initiatives. Attendees leave inspired and empowered to drive positive change 
- in their respective fields, armed with new perspectives and a network of like-minded individuals
- dedicated to advancing knowledge and driving innovation forward.`;
+export const about = `The annual SUMMIT Conference, hosted at Shiv Nadar Institute of Eminence
+(SNIoE), convenes undergraduate students from diverse academic backgrounds for a dynamic
+exchange of ideas and innovation. Through the means of multiple keynote talks by renowned
+personnel in academia, participants get to explore the intersection of their multidisciplinary
+studies, fostering creativity and critical thinking among the future leaders of tomorrow. 
+With a focus on nurturing talent and inculcating a culture of innovation, SUMMIT provides
+a unique platform for students to showcase their research and projects as well as attend 
+talks and presentations from other disciplines, empowering them to drive positive change 
+in various fields. Attendees depart inspired and empowered, equipped with fresh perspectives 
+and a network of like-minded individuals dedicated to advancing knowledge and driving innovation forward.`;
 
-export const aboutUni = `The Shiv Nadar Institution of Eminence is a multidisciplinary,
-student-centric research university established in 2011 by Shiv Nadar,
-one of India&apos;s foremost philanthropists and a pioneer of
-technological revolution. It has four Schools, viz., Engineering,
-Natural Sciences, Humanities and Social Sciences, Management &
-Entrepreneurship, and the Academy of Continuing Education. We were the
-first university in the country to offer a 4-year multidisciplinary
-research degree. Today, we are continuing as trailblazers with new
-kinds of curriculum, championed by faculty drawn from some of the top
-institutions in the country and the world. With low faculty-student
-ratios, their in-depth attention to students lead to high levels of
-student success.`;
+export const aboutUni = `Shiv Nadar Institute of Eminence (SNIoE) is a private, 
+residential research university founded in 2011 by Mr Shiv Nadar, one of India's
+prominent philanthropists. The university is the first of its kind to offer a
+four-year multidisciplinary research degree in India, with primary and academic 
+research at its forefront. It has four schools - Humanities and Social Sciences,
+Engineering, Natural Sciences, and Management & Entrepreneurship, fostering an
+incorporative and collaborative learning environment. Under the tutelage of
+seasoned faculty, students are given a plethora of research opportunities to
+explore their interests through Opportunities for Undergraduate Research, academic
+presentations, study-abroad programs, conferences, and final-year thesis projects,
+each providing them with the right platform for further studies and networking.`;
 
-export const aboutTheme = `At the SUMMIT Conference, each year is marked 
-by a thematic exploration that guides the discussions, workshops, and presentations
-throughout the event. Themes range from sustainability and technology to social 
-justice and healthcare, reflecting the diverse interests and passions of the 
-participating students. By centering discussions around these themes, the 
-conference aims to foster deeper insights and interdisciplinary collaboration
-among attendees. Themes serve as a catalyst for sparking innovative ideas and
-solutions to complex real-world challenges, encouraging students to think 
-critically and creatively across disciplines. Whether it's exploring the 
-role of artificial intelligence in shaping the future or addressing global
-inequality through sustainable development, the themes provide a cohesive 
-framework for advancing knowledge and driving positive change. Each year,
-the conference organizers carefully select themes that resonate with current
-global issues and inspire meaningful dialogue and action among participants.`;
+export const aboutTheme = `At the SUMMIT Conference, one of our primary goals is 
+to inculcate interdisciplinary collaboration, with attendees from various disciplines 
+engaging with new concepts and ideas. To achieve this, we have created eight umbrella
+themes - each open for interpretation - that guide presentations throughout the event. 
+The themes range from sustainability, technology, and Artificial Intelligence to culture,
+health, and social justice, aiming to reflect diverse subject areas and research interests. 
+These themes are further elaborated upon below, and every participant can dabble in 
+different fields, utilizing their critical and creative thinking skills to engage
+with real-world challenges and dialogues.`;
