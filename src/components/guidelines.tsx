@@ -28,7 +28,7 @@ const Guidelines = () => {
 
         </Button>
 
-        <Link href="/template.docx" download className={buttonVariants({variant:"secondary",size:"sm"})}>
+        <Link href="/SUMMIT-Conference-template-a4.docx" download className={buttonVariants({variant:"secondary",size:"sm"})}>
 
           Download Template
         </Link>
