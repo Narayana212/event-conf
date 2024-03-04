@@ -77,7 +77,7 @@
 
 
 .hero-back{
-  background: url('https://www.sharda.ac.in/iceect2024/assets/images/slider3.jpg');
+  background: url('/background.png');
   background-size: cover; 
   object-fit: cover;
   background-repeat: no-repeat;
