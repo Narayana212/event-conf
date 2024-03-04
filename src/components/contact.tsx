@@ -6,7 +6,7 @@ import {contact } from '../../content/contact'
 export default function Contact() {
     const {name,gmail,phone} =contact
   return (
-    <div>
+    <div id="contact">
         <MaxWidthWrapper  className=' pb-10 rounded-md text-gray-100 bg-[#CD1739] '>
         <h1 className='text-center font-semibold pt-3 text-xl md:text-3xl '>CONTACT US</h1>
 

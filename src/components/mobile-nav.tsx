@@ -14,7 +14,7 @@ const Links = [
   { id: 1, href :"/", title: "Home" },
   {id:2,href:"/paper",title:"Paper Submisson"},
   { id: 3, href: "/themes", title: "Themes" },
-  { id: 4, href: "/contact", title: "Contact Us" },
+  { id: 4, href: "#contact", title: "Contact Us" },
   { id: 5, href: "/team", title: "Team" },
   
 ];
@@ -54,10 +54,11 @@ const MobileNav = () => {
                   <Link
                     onClick={() => closeOnCurrent(item.href)}
                     className={`flex items-center w-full font-semibold ${
-                      pathname === item.href ? "text-[#CD1739]" : ""
+                      pathname.includes("#") ? (pathname.includes("#") ? "text-[#CD1739]" : "") : (pathname === item.href ? "text-[#CD1739]" : "")
                     }`}
                     href={item.href}
                   >
+                    
                     {item.title}
                   </Link>
                 </div>

@@ -18,7 +18,7 @@ import {
 const Links = [
   { id: 0, href: "/", title: "Home" },
   { id: 1, href: "/themes", title: "Themes" },
-  { id: 2, href: "/contact", title: "Contact Us" },
+  { id: 2, href: "#contact", title: "Contact Us" },
   { id: 3, href: "/team", title: "Team" },
 ];
 
