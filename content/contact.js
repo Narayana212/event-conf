@@ -1,5 +1,5 @@
 export  const contact={
     name:"Aneesh Kandkarkota",
-    gmail:"summit.conference@snu.edu.in\nak901@snu.edu.in",
+    gmail:"summit.conference@snu.edu.in",
     phone:"+91 970 483 0541"
 }
