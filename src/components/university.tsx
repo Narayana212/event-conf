@@ -22,8 +22,8 @@ export default function University() {
       <Image
         alt="university"
         src="/uni.jpg"
-        width={100}
-        height={100}
+        width={1000}
+        height={1000}
         quality={100}
         className=" md:w-[50%] w-full rounded-md"
       />
