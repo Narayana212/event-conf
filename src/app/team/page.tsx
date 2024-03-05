@@ -10,6 +10,12 @@ export default function Team() {
 
           <div className="text-lg leading-relaxed">
             <p className="mb-2">
+              <strong>Convenor:</strong> Dr Partha Chatterjee
+            </p>
+            <p className="mb-2">
+              <strong>Co-Convenors:</strong> Dr Shabana Mitra, Dr Ankur Mehra, Dr Ajit Kumar, Dr Balamurugan Balusamy
+            </p>
+            <p className="mb-2">
               <strong>Student Chair:</strong> Aneesh Kandrakota
             </p>
             <p className="mb-2">
