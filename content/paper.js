@@ -1,5 +1,5 @@
 const conferenceGuidelines = [
-    { id: 1, point: "Students are invited to submit papers within 6 pages written in A4 size." },
+    { id: 1, point: "Students are invited to submit papers within 6 pages written in A4 size. Only students of a Management discipline will be allowed to submit Case Study papers." },
     { id: 2, point: "At least one author of an accepted paper must present their paper in the conference." },
     { id: 3, point: "Presenting author must be an undergraduate student currently studying at their respective institution." },
     { id: 4, point: "Any form of plagiarism or use of generative AI is strictly banned and will be dealt with zero tolerance." },
