@@ -3,21 +3,34 @@ import MaxWidthWrapper from "@/components/max-width-wrapper";
 
 export default function Team() {
   return (
-    <MaxWidthWrapper className="pt-5 pb-5 w-screen">
-      <main className="gap-5 w-full md:flex-row">
-        <section className="flex flex-col items-center justify-center space-y-3">
-          <h1 className="md;text-4xl text-2xl text-[#CD1739] font-bold">OUR TEAM</h1>
+    <MaxWidthWrapper className="pt-8 pb-8 w-screen">
+      <main className="flex flex-col items-center gap-8 w-full md:flex-row">
+        <section className="flex flex-col items-center justify-center space-y-4">
+          <h1 className="text-5xl md:text-3xl text-[#CD1739] font-semibold mb-4">OUR TEAM</h1>
 
-          <p className=" text-base leading-relaxed">
-            Team Members:
-            <br />Student Chair: Aneesh Kandrakota
-            <br />Website Developer: Narayana Raavi
-            <br />Curation Leads: Joella Jose, Devansh Asthana
-            <br />Design Leads: Aryaman Sen, Mahitha Prasanna
-            <br />Content Leads: Suditi Sundaram, Manasvi Vedanta
-            <br />Marketing & PR Leads: Noor Walia, Sanskriti Garg
-            <br />Curation Panelists: Rudraksh Jawade, Sreelakshmi, Diwakar G, Malaika Dara
-          </p>
+          <div className="text-lg leading-relaxed">
+            <p className="mb-2">
+              <strong>Student Chair:</strong> Aneesh Kandrakota
+            </p>
+            <p className="mb-2">
+              <strong>Website Developer:</strong> Narayana Raavi
+            </p>
+            <p className="mb-2">
+              <strong>Curation Leads:</strong> Joella Jose, Devansh Asthana
+            </p>
+            <p className="mb-2">
+              <strong>Design Leads:</strong> Aryaman Sen, Mahitha Prasanna
+            </p>
+            <p className="mb-2">
+              <strong>Content Leads:</strong> Suditi Sundaram, Manasvi Vedanta
+            </p>
+            <p className="mb-2">
+              <strong>Marketing & PR Leads:</strong> Noor Walia, Sanskriti Garg
+            </p>
+            <p className="mb-2">
+              <strong>Curation Panelists:</strong> Rudraksh Jawade, Sreelakshmi, Diwakar G, Malaika Dara
+            </p>
+          </div>
         </section>
       </main>
     </MaxWidthWrapper>
