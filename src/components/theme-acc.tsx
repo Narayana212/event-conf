@@ -14,7 +14,7 @@ export function ThemeAcc() {
     <Accordion type="single" collapsible className="w-full pt-5 pb-5">
     {trackData.map((track, index) => (
       <AccordionItem key={`item-${index + 1}`} value={`item-${index + 1}`}>
-        <AccordionTrigger>{track.title}</AccordionTrigger>
+        <AccordionTrigger className="text-[0.7rem] md:text-base">{track.title}</AccordionTrigger>
         <AccordionContent>{track.content}</AccordionContent>
       </AccordionItem>
     ))}
