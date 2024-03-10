@@ -17,8 +17,9 @@ const conferenceGuidelines = [
     { id: 7, point: "Mention full address, affiliation, and email of all authors." },
     { id: 8, point: "All references, figures, and tables MUST be duly cited/referred within the text." },
   ];
-  
-  
+
+
+
   
   // Exporting the arrays
   export { conferenceGuidelines, eligibility };
