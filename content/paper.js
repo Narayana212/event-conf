@@ -20,7 +20,9 @@ const conferenceGuidelines = [
 
 
 
+ const imp="*lorem abdjhajdf kasbfjwnfnfa  fjsf fj j fj ajfncnjjk i idskjj "
+
   
   // Exporting the arrays
-  export { conferenceGuidelines, eligibility };
+  export { conferenceGuidelines, eligibility,imp };
   

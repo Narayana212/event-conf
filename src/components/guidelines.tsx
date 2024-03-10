@@ -1,5 +1,5 @@
 import React from "react";
-import { conferenceGuidelines, eligibility } from "../../content/paper";
+import { conferenceGuidelines, eligibility, imp } from "../../content/paper";
 import { Button, buttonVariants } from "./ui/button";
 import Link from "next/link";
 
@@ -27,6 +27,7 @@ const Guidelines = () => {
       <ul className="mt-3 flex flex-col justify-center list-disc marker:text-[#CD1739] ">
         {renderEligibilityPoints()}
       </ul>
+      <p dangerouslySetInnerHTML={{__html:imp}} className="mt-3 text-sm font-semibold"></p>
 
       <h1 className="text-[#CD1739] text-lg mt-5">Submission</h1>
 
