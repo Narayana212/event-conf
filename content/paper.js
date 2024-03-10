@@ -15,8 +15,7 @@ const conferenceGuidelines = [
     { id: 5, point: "Do not use any social/academic titles (e.g. Mr., Ms., Dr., Prof. etc) preceding the author names." },
     { id: 6, point: "Do <b>not</b> mention the position of a person (e.g., research scholar, student, assistant professor, professor, IEEE member, IEEE student member etc.) in the affiliation." },
     { id: 7, point: "Mention full address, affiliation, and email of all authors." },
-    { id: 8, point: "Articles must be written in spell-checked and grammatically correct English." },
-    { id: 9, point: "All references, figures, and tables MUST be duly cited/referred within the text." },
+    { id: 8, point: "All references, figures, and tables MUST be duly cited/referred within the text." },
   ];
   
   
