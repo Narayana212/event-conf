@@ -20,7 +20,7 @@ const Guidelines = () => {
         ))}
       </ul>
 
-      <h1 className="text-[#CD1739] text-lg mt-5">Submission</h1>
+      <h1 className="text-[#CD1739] text-lg mt-5">Paper Format</h1>
 
       <div className="flex gap-x-5 mt-3 items-center">
         <Link
