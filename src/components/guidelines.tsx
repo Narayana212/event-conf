@@ -37,6 +37,17 @@ const Guidelines = () => {
         >
           Download Template
         </Link>
+        <Link
+            href="https://docs.google.com/forms/d/e/1FAIpQLSd10u-Rvd945GeY3XzTNwNbwq0xBOsiBNOsIQ4eP9o9Lq-5LQ/closedform"
+            className={buttonVariants({
+              variant: "outline",
+  
+            })}
+            target="_blank"
+
+          >
+            Registration
+          </Link>
       </div>
     </main>
   );

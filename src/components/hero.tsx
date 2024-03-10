@@ -18,7 +18,7 @@ export default function Hero() {
           </div>
         </div>
 
-        <h1 className="text-[#CD1739] mt-7 text-center font-semibold md:text-[2rem] text-xl">
+        <h1 className="text-[#CD1739] mt-7 text-center font-semibold md:text-[1.5rem] text-xl">
           {title}
         </h1>
 
