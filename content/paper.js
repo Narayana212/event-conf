@@ -13,7 +13,7 @@ const conferenceGuidelines = [
     { id: 3, point: "Text in figures should not be too small, and preferably of equal size as text of the article." },
     { id: 4, point: "Figures, text, or the tables MUST be visible within the boundary of the text area of the page and MUST NOT go beyond it." },
     { id: 5, point: "Do not use any social/academic titles (e.g. Mr., Ms., Dr., Prof. etc) preceding the author names." },
-    { id: 6, point: "Do <b>not</b> mention the position of a person (e.g., research scholar, student, assistant professor, professor, IEEE member, IEEE student member etc.) in the affiliation." },
+    { id: 6, point: "Do <strong>not</strong> mention the position of a person (e.g., research scholar, student, assistant professor, professor, IEEE member, IEEE student member etc.) in the affiliation." },
     { id: 7, point: "Mention full address, affiliation, and email of all authors." },
     { id: 8, point: "All references, figures, and tables MUST be duly cited/referred within the text." },
   ];
