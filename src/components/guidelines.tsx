@@ -23,20 +23,21 @@ const Guidelines = () => {
       <h1 className="text-[#CD1739] text-lg mt-5">Submission</h1>
 
       <div className="flex gap-x-5 mt-3 items-center">
-        <Button size={"sm"}>
-          Submit Paper
+        <Link
+          href="https://cmt3.research.microsoft.com/SUMMIT2024"
+          target="_blank"
+        >
+          <Button size={"sm"}>Submit Paper</Button>
+        </Link>
 
-        </Button>
-
-        <Link href="/SUMMIT-Conference-template-a4.docx" download className={buttonVariants({variant:"secondary",size:"sm"})}>
-
+        <Link
+          href="/SUMMIT-Conference-template-a4.docx"
+          download
+          className={buttonVariants({ variant: "secondary", size: "sm" })}
+        >
           Download Template
         </Link>
-       
-
       </div>
-     
-     
     </main>
   );
 };
