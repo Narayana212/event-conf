@@ -30,7 +30,7 @@ const Guidelines = () => {
 
       <h1 className="text-[#CD1739] text-lg mt-5">Submission</h1>
 
-      <div className="flex gap-x-5 flex-wrap mt-3 items-center">
+      <div className="flex gap-5 flex-wrap mt-3 items-center">
         <Link href="https://cmt3.research.microsoft.com/SUMMIT2024" target="_blank">
           <Button size={"sm"}>Submit Paper</Button>
         </Link>
