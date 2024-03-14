@@ -7,7 +7,8 @@ With a focus on nurturing talent and inculcating a culture of innovation, SUMMIT
 a unique platform for students to showcase their research and projects as well as attend 
 talks and presentations from other disciplines, empowering them to drive positive change 
 in various fields. Attendees depart inspired and empowered, equipped with fresh perspectives 
-and a network of like-minded individuals dedicated to advancing knowledge and driving innovation forward.`;
+and a network of like-minded individuals dedicated to advancing knowledge and driving innovation forward. 
+Each track also has a Best Paper Award with prize money attached to it. Registration for authors is completely free.`;
 
 export const aboutUni = `Shiv Nadar Institute of Eminence (SNIoE) is a private, 
 residential research university founded in 2011 by Mr Shiv Nadar, one of India's
