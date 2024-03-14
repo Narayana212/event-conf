@@ -10,7 +10,7 @@ export default function Contact() {
     { icon: <CircleUser className='h-14 w-14 border rounded-full p-3' />, label: 'Student POC:', value: name },
     { icon: <Mail className='h-14 w-14 border rounded-full p-3' />, label: 'Email:', value: gmail },
     { icon: <Mail className='h-14 w-14 border rounded-full p-3' />, label: 'Dr. Shabana Mitra', value: 'shabana.mitra@snu.edu.in' },
-    { icon: <Mail className='h-14 w-14 border rounded-full p-3' />, label: 'Dr. Balamurugan Balusamy', value: 'balamurguan.balusamy@snu.edu.in' },
+    { icon: <Mail className='h-14 w-14 border rounded-full p-3' />, label: 'Dr. Balamurugan Balusamy', value: 'balamurugan.balusamy@snu.edu.in' },
   ];
 
   return (
