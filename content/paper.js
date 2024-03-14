@@ -20,7 +20,7 @@ const conferenceGuidelines = [
 
 
 
- const imp="*A sample IEEE template is provided below.<br>*(e.g. Mr., Ms., Dr., Prof. etc)\n(e.g., research scholar, student, assistant professor, professor, IEEE member, IEEE student member etc.)"
+ const imp="*A sample IEEE template is provided below.<br>*(e.g. Mr., Ms., Dr., Prof. etc)<br>(e.g., research scholar, student, assistant professor, professor, IEEE member, IEEE student member etc.)"
 
   
   // Exporting the arrays
