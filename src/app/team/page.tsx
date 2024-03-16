@@ -22,24 +22,37 @@ export default function Team() {
               <strong>Student Chair:</strong> Aneesh Kandrakota
             </p>
             <p className="mb-2">
+              <strong>Student Co-Chairs:</strong> Likith Muni, Dwiti Modi
+            </p>
+            <p className="mb-2">
               <strong>Website Developer:</strong> Narayana Raavi
             </p>
             <p className="mb-2">
               <strong>Curation Leads:</strong> Joella Jose, Devansh Asthana
             </p>
             <p className="mb-2">
+              <strong>Curation Panelists:</strong> Rudraksh Jawade, Sreelakshmi,
+              Diwakar G, Malaika Dara
+            </p>
+            <p className="mb-2">
               <strong>Design Leads:</strong> Aryaman Sen, Mahitha Prasanna
+            </p>
+            <p className="mb-2">
+              <strong>Design Team:</strong> Chandhanika Kokkula, Trinanjana Sen, Aarushi Bansal
             </p>
             <p className="mb-2">
               <strong>Content Leads:</strong> Suditi Sundaram, Manasvi Vedanta
             </p>
             <p className="mb-2">
+              <strong>Content Team:</strong> Aryaa Singh, Aditya Raghuram, Vaani Prasad
+            </p>
+            <p className="mb-2">
               <strong>Marketing & PR Leads:</strong> Noor Walia, Sanskriti Garg
             </p>
             <p className="mb-2">
-              <strong>Curation Panelists:</strong> Rudraksh Jawade, Sreelakshmi,
-              Diwakar G, Malaika Dara
+              <strong>Marketing & PR Team:</strong> Aarushi Ishani, Vandana, Jhalak Gupta, Sreejhani, Jaideep K
             </p>
+            
           </div>
         </section>
       </main>
