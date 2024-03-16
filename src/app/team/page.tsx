@@ -50,7 +50,7 @@ export default function Team() {
               <strong>Marketing & PR Leads:</strong> Noor Walia, Sanskriti Garg
             </p>
             <p className="mb-2">
-              <strong>Marketing & PR Team:</strong> Aarushi Ishani, Vandana, Jhalak Gupta, Sreejhani, Jaideep K
+              <strong>Marketing & PR Team:</strong> Aarushi Ishani, Vandana, Jhalak Gupta, Shreejhani S, Jaideep K
             </p>
             
           </div>
