@@ -1,4 +1,4 @@
-export const title="SNIoE Undergraduate Meeting on Multidisciplinary Innovation and Talent"
+export const title="SNIoE Undergraduate Meeting on Multidisciplinary Inquiry and Thought"
 
 
 export const date="11th May 2024"
